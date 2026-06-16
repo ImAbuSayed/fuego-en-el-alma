@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-en-el-alma/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Fuego en el alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-el-alma/) |
+| **Get License** | [Secure Licensing Rights for Fuego en el alma](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-en-el-alma/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see the fire burning every time you look my way
+> You got a dangerous rhythm, it's a sensual game we play
+> Underneath the flashing lights, your body is all I see
+> Come give that late night magic, give it all entirely to me
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
