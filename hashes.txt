@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego en el alma
+
+This log tracks the cryptographic history and versioning for the song **Fuego en el alma** (fuego-en-el-alma).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T14:22:48.183666 | `v1` | `bd5f04b1d406de03aac2c08bffef512f7a86894822533428fdc93c6b4b79984e` | `e8bc46198b7a976f953dbfb27145a36cea9b1f25e54046ed01d79d0e392642b8` | `2026-06-16_fuego-en-el-alma-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
